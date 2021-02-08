@@ -1,1 +1,3 @@
-# M1
+Features 
+Schedule
+Responsibilities
